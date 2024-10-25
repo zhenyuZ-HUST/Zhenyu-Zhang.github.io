@@ -14,3 +14,16 @@ I'm a first-year Ph.D. student from [School of Computer Science and Technology](
 News
 ======
 2024.07	 🎉🎉 Two papers on Few-shot Learning are accepted by the conference ACMMM 2024.
+
+Publications
+======
+1. MICM: Rethinking Unsupervised Pretraining for Enhanced Few-shot Learning
+Zhenyu Zhang*, Guangyao Chen*, Yixiong Zou, and Zhimeng Huang, Yuhua Li, Ruixuan Li
+In ACM Multimedia, 2024 (Oral Presentation, Acceptance Rate: < 3.97%)
+[paper](https://arxiv.org/abs/2408.13385) | [code](https://github.com/iCGY96/MICM) | [bitex](https://github.com/iCGY96/MICM#citation)
+
+
+2. Learning Unknowns from Unknowns: Diversified Negative Prototypes Generator for Few-shot Open-Set Recognition
+Zhenyu Zhang*, Guangyao Chen*, Yixiong Zou, and Yuhua Li, Ruixuan Li
+In ACM Multimedia, 2024
+[paper](https://arxiv.org/abs/2408.13373) | [code](https://github.com/iCGY96/DNPG) 
