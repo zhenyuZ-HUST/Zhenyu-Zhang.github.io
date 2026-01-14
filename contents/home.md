@@ -1,20 +1,13 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
-
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a Doctor's degree in Wuhan at the Department of School of Computer Science and Technology, Huazhong University of Science and Technology.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>m202273680@hust.edu.cn</code>  
+<code>d202481641@hust.edu.cn</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Beijing University of Posts and Telecommunications**, Bachelor of Engineering (2018 – 2022)  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Huazhong University of Science and Technology**, (2022 – now)  
 
 #### Research Interests  
-XX, XX, XX, XX.
+Few-shot Learning, Open-set Learning, Multimodal Large Model.
