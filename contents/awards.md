@@ -1,3 +1,4 @@
-- 校级一等奖学金, 2022.  
-
-- Outstanding Graduation Thesis, XXX University, 2023. 
+- Outstanding Graduate, Beijing University of Posts and Telecommunications, 2022.
+- First-Class University Scholarship，2023.
+- Second-Class University Scholarship，2024
+- National Scholarship for Master's Students，2024.
